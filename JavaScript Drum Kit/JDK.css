@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+
+kbd
+{
+    display: block;
+    font-size: 40px;
+}
+
+.sound
+{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffc600;
+}
